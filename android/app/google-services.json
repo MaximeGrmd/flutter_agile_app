@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055127575906",
+    "firebase_url": "https://flutteragileapp.firebaseio.com",
+    "project_id": "flutteragileapp",
+    "storage_bucket": "flutteragileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055127575906:android:20762b022350821e24603b",
+        "android_client_info": {
+          "package_name": "come.maximegrmd.flutteragileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055127575906-gj9u70ujqsn1jv6fdfqevmgf4ogagklb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "come.maximegrmd.flutteragileapp",
+            "certificate_hash": "6144d28cf52b9f3da8a8c68bc19f22a22e234400"
+          }
+        },
+        {
+          "client_id": "1055127575906-picpto2um1f6hldod4a7lltsig9n58os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8r91y-NfXD2mu-qyXS6oR36XhWNL2Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055127575906-picpto2um1f6hldod4a7lltsig9n58os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
