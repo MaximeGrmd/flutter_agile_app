@@ -15,14 +15,6 @@
       },
       "oauth_client": [
         {
-          "client_id": "1055127575906-gj9u70ujqsn1jv6fdfqevmgf4ogagklb.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "come.maximegrmd.flutteragileapp",
-            "certificate_hash": "6144d28cf52b9f3da8a8c68bc19f22a22e234400"
-          }
-        },
-        {
           "client_id": "1055127575906-picpto2um1f6hldod4a7lltsig9n58os.apps.googleusercontent.com",
           "client_type": 3
         }
