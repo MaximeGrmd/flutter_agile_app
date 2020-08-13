@@ -1,34 +1,42 @@
 {
   "project_info": {
-    "project_number": "1055127575906",
-    "firebase_url": "https://flutteragileapp.firebaseio.com",
-    "project_id": "flutteragileapp",
-    "storage_bucket": "flutteragileapp.appspot.com"
+    "project_number": "314572598627",
+    "firebase_url": "https://agileapp-59524.firebaseio.com",
+    "project_id": "agileapp-59524",
+    "storage_bucket": "agileapp-59524.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1055127575906:android:20762b022350821e24603b",
+        "mobilesdk_app_id": "1:314572598627:android:67c4471a121fc4413ff756",
         "android_client_info": {
-          "package_name": "come.maximegrmd.flutteragileapp"
+          "package_name": "com.maximegrmd.agileapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1055127575906-picpto2um1f6hldod4a7lltsig9n58os.apps.googleusercontent.com",
+          "client_id": "314572598627-5ic7sbpmfae3tdjfpe63bsnp7v2egnam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maximegrmd.agileapp",
+            "certificate_hash": "6144d28cf52b9f3da8a8c68bc19f22a22e234400"
+          }
+        },
+        {
+          "client_id": "314572598627-p1jdjnqm3n0dih88reaki3m98d8kutnv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBV8r91y-NfXD2mu-qyXS6oR36XhWNL2Cs"
+          "current_key": "AIzaSyAy4v3KGFl5Oab5Ch6oF1n-1PiE_OH1fT0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1055127575906-picpto2um1f6hldod4a7lltsig9n58os.apps.googleusercontent.com",
+              "client_id": "314572598627-p1jdjnqm3n0dih88reaki3m98d8kutnv.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
