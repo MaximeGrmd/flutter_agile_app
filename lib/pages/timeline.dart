@@ -13,8 +13,35 @@ class Timeline extends StatefulWidget {
 class _TimelineState extends State<Timeline> {
   @override
   void initState() {
+    updateUser();
+    deleteUser();
     // getUserById();
     super.initState();
+  }
+
+  createUser() {
+    usersRef
+        .document("asdfasdf")
+        .setData({"username": "Jeff", "isAdmin": false, "postsCount": 0});
+  }
+
+  updateUser() async {
+    final DocumentSnapshot doc =
+        await usersRef.document("LMRWmAPE6oXoUQHZM43U").get();
+
+    if (doc.exists) {
+      doc.reference
+          .updateData({"username": "John", "isAdmin": false, "postsCount": 0});
+    }
+  }
+
+  deleteUser() async {
+    final DocumentSnapshot doc =
+        await usersRef.document("YgV8rZZ7NhDhbP3aGVit").get();
+
+    if (doc.exists) {
+      doc.reference.delete();
+    }
   }
 
   // getUserById() async {
